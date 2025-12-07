@@ -1,38 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мульт" tvg-logo="" group-title="Мультфильмы",Мульт
-http://lb.wisp.cat/lb0/Mult/mpegts?token=nPfO4rRaax
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="О!" tvg-logo="" group-title="Мультфильмы",О!
-http://50.7.28.226/8664/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Карусель" tvg-logo="" group-title="Мультфильмы",Карусель
-http://46.8.46.14/Karusel/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мама" tvg-logo="" group-title="Мультфильмы",Мама
-http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Солнце" tvg-logo="" group-title="Мультфильмы",Солнце
-http://tv.mediacdn.ru/live/solntse/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Уникум" tvg-logo="" group-title="Мультфильмы",Уникум
-http://46.8.46.14/detskiy/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ani" tvg-logo="" group-title="Мультфильмы",Ani
-http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Classics" tvg-logo="" group-title="Мультфильмы",Cartoon Classics
-http://95.66.188.74/Cartoon_Classics/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="" group-title="Мультфильмы",Cartoon Network
-http://46.8.46.14/Cartoon_Network/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Kids" tvg-logo="" group-title="Мультфильмы",Fox Kids
-http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gulli Girl" tvg-logo="" group-title="Мультфильмы",Gulli Girl
-http://46.8.46.14/Gulli/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick Jr" tvg-logo="" group-title="Мультфильмы",Nick Jr
-http://46.8.46.14/nickjr/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nickelodeon" tvg-logo="" group-title="Мультфильмы",Nickelodeon
-http://46.8.46.14/Nickelodeon/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TiJi" tvg-logo="" group-title="Мультфильмы",TiJi
-http://188.190.222.53/TiJi/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Детский Мир" tvg-logo="" group-title="Мультфильмы",Детский Мир
-http://46.8.46.14/detmir/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Детское кино International" tvg-logo="https://img.catcast.tv/uploads/09072020/logos/38720-5f06c9ff9fbbd.png" group-title="Мультфильмы",Детское кино International
-https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Balapan" tvg-logo="" group-title="Мультфильмы",Balapan
-https://ucdn.beetv.kz/bpk-tv/000005178/tve/index.m3u8
+#EXTINF:0,Gulli Girl
+https://ucdn.beetv.kz/bpk-tv/000000284/tve/index.m3u8
 #EXTINF:0,Лёва
 https://ucdn.beetv.kz/bpk-tv/000008003/tve/index.m3u8
 #EXTINF:0,Мульт
@@ -41,8 +9,8 @@ https://ucdn.beetv.kz/bpk-tv/000001207/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000160/tve/index.m3u8
 #EXTINF:0,Da Vinci
 https://ucdn.beetv.kz/bpk-tv/000000333/tve/index.m3u8
-#EXTINF:0,Gulli Girl
-https://ucdn.beetv.kz/bpk-tv/000000284/tve/index.m3u8
+#EXTINF:0,Cartoon Classics
+https://ucdn.beetv.kz/bpk-tv/000008795/tve/index.m3u8
 #EXTINF:0,Nicktoons
 https://ucdn.beetv.kz/bpk-tv/000004365/tve/index.m3u8
 #EXTINF:0,Nickelodeon
@@ -67,164 +35,36 @@ https://ucdn.beetv.kz/bpk-tv/000002762/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000449/tve/index.m3u8
 #EXTINF:0,Карусель International
 https://ucdn.beetv.kz/bpk-tv/000000781/tve/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ktk" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",ktk
-http://87.76.32.36:8001/ktk
-#EXTINF:0,QAZAQSTAN HD
-https://ucdn.beetv.kz/bpk-tv/000004208/tve/index.m3u8
-#EXTINF:0,Хабар HD
-https://ucdn.beetv.kz/bpk-tv/000004211/tve/index.m3u8
-#EXTINF:0,Qazsport HD
-https://ucdn.beetv.kz/bpk-tv/000003038/tve/index.m3u8
-#EXTINF:0,24 KZ HD
-https://ucdn.beetv.kz/bpk-tv/000005177/tve/index.m3u8
-#EXTINF:0,Astana TV
-https://ucdn.beetv.kz/bpk-tv/000000666/tve/index.m3u8
-#EXTINF:0,31 Канал
-https://ucdn.beetv.kz/bpk-tv/000000663/tve/index.m3u8
-#EXTINF:0,Первый Канал Евразия
-https://ucdn.beetv.kz/bpk-tv/000000669/tve/index.m3u8
-#EXTINF:0,КТК HD
-https://ucdn.beetv.kz/bpk-tv/000000672/tve/index.m3u8
-#EXTINF:0,НТК
-https://ucdn.beetv.kz/bpk-tv/000000673/tve/index.m3u8
-#EXTINF:0,Седьмой канал
-https://ucdn.beetv.kz/bpk-tv/000000659/tve/index.m3u8
-#EXTINF:0,Jibek Joly
-https://ucdn.beetv.kz/bpk-tv/000000941/tve/index.m3u8
-#EXTINF:0,Atameken Business Channel HD
-https://ucdn.beetv.kz/bpk-tv/000005322/tve/index.m3u8
-#EXTINF:0,Almaty tv
-https://ucdn.beetv.kz/bpk-tv/000000667/tve/index.m3u8
-#EXTINF:0,ТДК-42
-https://ucdn.beetv.kz/bpk-tv/000001507/tve/index.m3u8
-#EXTINF:0,Той Думан
-https://ucdn.beetv.kz/bpk-tv/000002936/tve/index.m3u8
-#EXTINF:0,ABAI TV
-https://ucdn.beetv.kz/bpk-tv/000006116/tve/index.m3u8
-#EXTINF:0,Turan TV
-https://ucdn.beetv.kz/bpk-tv/000001404/tve/index.m3u8
-#EXTINF:0,SHOW KZ
-https://ucdn.beetv.kz/bpk-tv/000008944/tve/index.m3u8
-#EXTINF:0,77 TV
-https://ucdn.beetv.kz/bpk-tv/000002851/tve/index.m3u8
-#EXTINF:0,5 канал (региональный)
-https://ucdn.beetv.kz/bpk-tv/000000950/tve/index.m3u8
-#EXTINF:0,Алау ТВ
-https://ucdn.beetv.kz/bpk-tv/000001511/tve/index.m3u8
-#EXTINF:0,Отырар-TV
-https://ucdn.beetv.kz/bpk-tv/000001052/tve/index.m3u8
-#EXTINF:0,Айғак
-https://ucdn.beetv.kz/bpk-tv/000001510/tve/index.m3u8
-#EXTINF:0,Жетiсу
-https://ucdn.beetv.kz/bpk-tv/000001458/tve/index.m3u8
-#EXTINF:0,ТВК 6
-https://ucdn.beetv.kz/bpk-tv/000001516/tve/index.m3u8
-#EXTINF:0,Ирбис TV
-https://ucdn.beetv.kz/bpk-tv/000001513/tve/index.m3u8
-#EXTINF:0,Новое Телевидение HD
-https://ucdn.beetv.kz/bpk-tv/000001380/tve/index.m3u8
-#EXTINF:0,Твоё Телевидение
-https://ucdn.beetv.kz/bpk-tv/000002721/tve/index.m3u8
-#EXTINF:0,РИКА-ТВ
-https://ucdn.beetv.kz/bpk-tv/000001514/tve/index.m3u8
-#EXTINF:0,HIT TV
-https://ucdn.beetv.kz/bpk-tv/000001213/tve/index.m3u8
-#EXTINF:0,MUZZONE
-https://ucdn.beetv.kz/bpk-tv/000000783/tve/index.m3u8
-#EXTINF:0,Ertis
-https://ucdn.beetv.kz/bpk-tv/000003248/tve/index.m3u8
-#EXTINF:0,ULYTAU
-https://ucdn.beetv.kz/bpk-tv/000003604/tve/index.m3u8
-#EXTINF:0,Semei
-https://ucdn.beetv.kz/bpk-tv/000003250/tve/index.m3u8
-#EXTINF:0,Saryarqa
-https://ucdn.beetv.kz/bpk-tv/000003146/tve/index.m3u8
-#EXTINF:0,Qyzylorda
-https://ucdn.beetv.kz/bpk-tv/000003246/tve/index.m3u8
-#EXTINF:0,Qyzyljar
-https://ucdn.beetv.kz/bpk-tv/000003249/tve/index.m3u8
-#EXTINF:0,Qostanai
-https://ucdn.beetv.kz/bpk-tv/000001521/tve/index.m3u8
-#EXTINF:0,Ońtústik
-https://ucdn.beetv.kz/bpk-tv/000003251/tve/index.m3u8
-#EXTINF:0,Mańǵystaý
-https://ucdn.beetv.kz/bpk-tv/000003247/tve/index.m3u8
-#EXTINF:0,Kókshe
-https://ucdn.beetv.kz/bpk-tv/000003021/tve/index.m3u8
-#EXTINF:0,Jambyl
-https://ucdn.beetv.kz/bpk-tv/000003244/tve/index.m3u8
-#EXTINF:0,Atyraý
-https://ucdn.beetv.kz/bpk-tv/000001570/tve/index.m3u8
-#EXTINF:0,Altai
-https://ucdn.beetv.kz/bpk-tv/000001572/tve/index.m3u8
-#EXTINF:0,Туркестан
-https://ucdn.beetv.kz/bpk-tv/000007248/tve/index.m3u8
-#EXTINF:0,Перец
-https://ucdn.beetv.kz/bpk-tv/000001248/tve/index.m3u8
-#EXTINF:0,МИР 24
-https://ucdn.beetv.kz/bpk-tv/000002557/tve/index.m3u8
-#EXTINF:0,НТВ Стиль
-https://ucdn.beetv.kz/bpk-tv/000002761/tve/index.m3u8
-#EXTINF:0,НТВ Сериал
-https://ucdn.beetv.kz/bpk-tv/000002760/tve/index.m3u8
-#EXTINF:0,НТВ Право
-https://ucdn.beetv.kz/bpk-tv/000002759/tve/index.m3u8
-#EXTINF:0,ПОЕХАЛИ!
-https://ucdn.beetv.kz/bpk-tv/000002991/tve/index.m3u8
-#EXTINF:0,Планета HD
-https://ucdn.beetv.kz/bpk-tv/000001049/tve/index.m3u8
-#EXTINF:0,Живая природа HD
-https://ucdn.beetv.kz/bpk-tv/000001187/tve/index.m3u8
-#EXTINF:0,Рыбалка и охота
-https://ucdn.beetv.kz/bpk-tv/000002510/tve/index.m3u8
-#EXTINF:0,Диалоги о Рыбалке
-https://ucdn.beetv.kz/bpk-tv/000003174/tve/index.m3u8
-#EXTINF:0,Домашние животные
-https://ucdn.beetv.kz/bpk-tv/000000146/tve/index.m3u8
-#EXTINF:0,Глазами Туриста HD
-https://ucdn.beetv.kz/bpk-tv/000001414/tve/index.m3u8
-#EXTINF:0,National Geographic HD
-https://ucdn.beetv.kz/bpk-tv/000000034/tve/index.m3u8
-#EXTINF:0,Nat Geo Wild HD
-https://ucdn.beetv.kz/bpk-tv/000004474/tve/index.m3u8
-#EXTINF:0,Visast History HD
-https://ucdn.beetv.kz/bpk-tv/000005528/tve/index.m3u8
-#EXTINF:0,VIASAT Nature HD
-https://ucdn.beetv.kz/bpk-tv/000006482/tve/index.m3u8
-#EXTINF:0,Viasat Explore HD
-https://ucdn.beetv.kz/bpk-tv/000004157/tve/index.m3u8
-#EXTINF:0,Тайны галактики HD
-https://ucdn.beetv.kz/bpk-tv/000000332/tve/index.m3u8
-#EXTINF:0,Т24
-https://ucdn.beetv.kz/bpk-tv/000000008/tve/index.m3u8
-#EXTINF:0,Terra HD
-https://ucdn.beetv.kz/bpk-tv/000008142/tve/index.m3u8
-#EXTINF:0,Оружие
-https://ucdn.beetv.kz/bpk-tv/000000308/tve/index.m3u8
-#EXTINF:0,History HD
-https://ucdn.beetv.kz/bpk-tv/000001000/tve/index.m3u8
-#EXTINF:0,Discovery Channel  HD
-https://ucdn.beetv.kz/bpk-tv/000001496/tve/index.m3u8
-#EXTINF:0,Big Planet HD
-https://ucdn.beetv.kz/bpk-tv/000008052/tve/index.m3u8
-#EXTINF:0,Animal Planet HD
-https://ucdn.beetv.kz/bpk-tv/000000216/tve/index.m3u8
-#EXTINF:0,Точка отрыва
-https://ucdn.beetv.kz/bpk-tv/000003208/tve/index.m3u8
-#EXTINF:0,Новый игровой канал
-https://ucdn.beetv.kz/bpk-tv/000008615/tve/index.m3u8
-#EXTINF:0,Наша Тема
-https://ucdn.beetv.kz/bpk-tv/000003785/tve/index.m3u8
-#EXTINF:0,Мужской
-https://ucdn.beetv.kz/bpk-tv/000000286/tve/index.m3u8
-#EXTINF:0,Загородная жизнь HD
-https://ucdn.beetv.kz/bpk-tv/000000289/tve/index.m3u8
-#EXTINF:0,Телекафе
-https://ucdn.beetv.kz/bpk-tv/000000206/tve/index.m3u8
-#EXTINF:0,МОДА
-https://ucdn.beetv.kz/bpk-tv/000000439/tve/index.m3u8
-#EXTINF:0,РБК
-https://ucdn.beetv.kz/bpk-tv/000000091/tve/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мама" tvg-logo="" group-title="Мультфильмы",Мама
+http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Солнце" tvg-logo="" group-title="Мультфильмы",Солнце
+http://tv.mediacdn.ru/live/solntse/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ani" tvg-logo="" group-title="Мультфильмы",Ani
+http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Classics" tvg-logo="" group-title="Мультфильмы",Cartoon Classics
+http://95.66.188.74/Cartoon_Classics/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Kids" tvg-logo="" group-title="Мультфильмы",Fox Kids
+http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Детское кино International" tvg-logo="https://img.catcast.tv/uploads/09072020/logos/38720-5f06c9ff9fbbd.png" group-title="Мультфильмы",Детское кино International
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:0,Карусель
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:0,Карусель (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
+#EXTINF:0,Карусель (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
+#EXTINF:0,Карусель (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
+#EXTINF:0,СОЛНЦЕ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+#EXTINF:0,СОЛНЦЕ (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
+#EXTINF:0,СОЛНЦЕ (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
+#EXTINF:0,СОЛНЦЕ (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Balapan" tvg-logo="" group-title="Мультфильмы",Balapan
+https://ucdn.beetv.kz/bpk-tv/000005178/tve/index.m3u8
 #EXTINF:0,Феникс+Кино
 https://ucdn.beetv.kz/bpk-tv/000000125/tve/index.m3u8
 #EXTINF:0,Семейное кино HD
@@ -307,12 +147,240 @@ https://ucdn.beetv.kz/bpk-tv/000007818/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000007815/tve/index.m3u8
 #EXTINF:0,Hollywood
 https://ucdn.beetv.kz/bpk-tv/000000031/tve/index.m3u8
+#EXTINF:0,Suspense
+https://ucdn.beetv.kz/bpk-tv/000008739/tve/index.m3u8
+#EXTINF:0,Romance
+https://ucdn.beetv.kz/bpk-tv/000008780/tve/index.m3u8
 #EXTINF:0,RTVi HD
 https://ucdn.beetv.kz/bpk-tv/000000039/tve/index.m3u8
 #EXTINF:0,ТВ21
 https://ucdn.beetv.kz/bpk-tv/000000006/tve/index.m3u8
+#EXTINF:0,FilmUADrama
+https://ucdn.beetv.kz/bpk-tv/000003028/tve/index.m3u8
+#EXTINF:0,Иллюзион
+https://ucdn.beetv.kz/bpk-tv/000004582/tve/index.m3u8
+#EXTINF:0,Вещдок
+https://ucdn.beetv.kz/bpk-tv/000009428/tve/index.m3u8
+#EXTINF:0,Семейные Мелодрамы
+https://ucdn.beetv.kz/bpk-tv/000009429/tve/index.m3u8
+#EXTINF:0,Первый канал
+https://ucdn.beetv.kz/bpk-tv/000001227/tve/index.m3u8
+#EXTINF:0,Первый канал
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+#EXTINF:0,Первый канал (+2)
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
+#EXTINF:0,Первый канал (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
+#EXTINF:0,Первый канал (+7)
+https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
+#EXTINF:0,Рен ТВ
+https://ucdn.beetv.kz/bpk-tv/000002472/tve/index.m3u8
+#EXTINF:0,РЕН ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:0,РЕН ТВ (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
+#EXTINF:0,Рен ТВ +4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
+#EXTINF:0,Рен ТВ +7
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
+#EXTINF:0,ТНТ
+https://ucdn.beetv.kz/bpk-tv/000007833/tve/index.m3u8
+#EXTINF:0,ТНТ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:0,ТНТ (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
+#EXTINF:0,ТНТ (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
+#EXTINF:0,ТНТ (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
+#EXTINF:0,ТНТ4
+https://ucdn.beetv.kz/bpk-tv/000002926/tve/index.m3u8
+#EXTINF:0,ТНТ4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:0,ТНТ4 (+2)
+https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_2/variant.m3u8
+#EXTINF:0,ТНТ4 (+4)
+https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_4/variant.m3u8	
+#EXTINF:0,ТНТ4 (+7)
+https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_7/variant.m3u8
+#EXTINF:0,Россия К
+https://ucdn.beetv.kz/bpk-tv/000000066/tve/index.m3u8
+#EXTINF:0,Россия 24
+https://ucdn.beetv.kz/bpk-tv/000000198/tve/index.m3u8
+#EXTINF:0,НТВ МИР
+https://ucdn.beetv.kz/bpk-tv/000000079/tve/index.m3u8
+#EXTINF:0,НТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:0,НТВ (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
+#EXTINF:0,НТВ (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
+#EXTINF:0,НТВ (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
+#EXTINF:0,НТВ Стиль
+https://ucdn.beetv.kz/bpk-tv/000002761/tve/index.m3u8
+#EXTINF:0,НТВ Сериал
+https://ucdn.beetv.kz/bpk-tv/000002760/tve/index.m3u8
+#EXTINF:0,НТВ Право
+https://ucdn.beetv.kz/bpk-tv/000002759/tve/index.m3u8
+#EXTINF:0,РТР-Планета
+https://ucdn.beetv.kz/bpk-tv/000000812/tve/index.m3u8
+#EXTINF:0,Россия 1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:0,Россия 1 (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
+#EXTINF:0,Россия 1 (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
+#EXTINF:0,Россия 1 (+8)
+https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
+#EXTINF:0,Центральное Телевидение
+https://ucdn.beetv.kz/bpk-tv/000001880/tve/index.m3u8
+#EXTINF:0,ТВЦ
+https://ucdn.beetv.kz/bpk-tv/000000112/tve/index.m3u8
+#EXTINF:0,ТВ Центр
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTINF:0,ТВ Центр (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
+#EXTINF:0,ТВЦ +4
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
+#EXTINF:0,ТВЦ +7
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
+#EXTINF:0,ТВ 3 International
+https://ucdn.beetv.kz/bpk-tv/000004712/tve/index.m3u8
+#EXTINF:0,ТВ3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:0,ТВ3 (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
+#EXTINF:0,ТВ3 (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
+#EXTINF:0,ТВ3 (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
+#EXTINF:0,Домашний International
+https://ucdn.beetv.kz/bpk-tv/000002348/tve/index.m3u8
+#EXTINF:0,Домашний
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:0,Домашний +2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
+#EXTINF:0,Домашний +4
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
+#EXTINF:0,Домашний +7
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
+#EXTINF:0,Пятница International
+https://ucdn.beetv.kz/bpk-tv/000007816/tve/index.m3u8
+#EXTINF:0,Пятница
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:0,Пятница! (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
+#EXTINF:0,Пятница! (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
+#EXTINF:0,Пятница! (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
+#EXTINF:0,СТС International
+https://ucdn.beetv.kz/bpk-tv/000000428/tve/index.m3u8
+#EXTINF:0,СТС
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:0,СТС (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
+#EXTINF:0,СТС (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
+#EXTINF:0,СТС (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
+#EXTINF:0,СТС Love
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:0,Пятый канал
+https://ucdn.beetv.kz/bpk-tv/000003718/tve/index.m3u8
+#EXTINF:0,Пятый канал
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:0,Пятый канал (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
+#EXTINF:0,Пятый канал (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
+#EXTINF:0,Пятый канал (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
+#EXTINF:0,Звезда
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF:0,Звезда (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
+#EXTINF:0,Звезда (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
+#EXTINF:0,Звезда (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
+#EXTINF:0,МИР
+https://ucdn.beetv.kz/bpk-tv/000002555/tve/index.m3u8
+#EXTINF:0,МИР 24
+https://ucdn.beetv.kz/bpk-tv/000002557/tve/index.m3u8
+#EXTINF:0,Перец
+https://ucdn.beetv.kz/bpk-tv/000001248/tve/index.m3u8
+#EXTINF:0,Че! (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
+#EXTINF:0,Ю (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
 #EXTINF:0,Ключ
 https://ucdn.beetv.kz/bpk-tv/000004585/tve/index.m3u8
+#EXTINF:0,ПОЕХАЛИ!
+https://ucdn.beetv.kz/bpk-tv/000002991/tve/index.m3u8
+#EXTINF:0,Планета HD
+https://ucdn.beetv.kz/bpk-tv/000001049/tve/index.m3u8
+#EXTINF:0,Живая природа HD
+https://ucdn.beetv.kz/bpk-tv/000001187/tve/index.m3u8
+#EXTINF:0,Extreme Russian
+https://ucdn.beetv.kz/bpk-tv/000000026/tve/index.m3u8
+#EXTINF:0,Рыбалка и охота
+https://ucdn.beetv.kz/bpk-tv/000002510/tve/index.m3u8
+#EXTINF:0,Диалоги о Рыбалке
+https://ucdn.beetv.kz/bpk-tv/000003174/tve/index.m3u8
+#EXTINF:0,Домашние животные
+https://ucdn.beetv.kz/bpk-tv/000000146/tve/index.m3u8
+#EXTINF:0,Глазами Туриста HD
+https://ucdn.beetv.kz/bpk-tv/000001414/tve/index.m3u8
+#EXTINF:0,National Geographic HD
+https://ucdn.beetv.kz/bpk-tv/000000034/tve/index.m3u8
+#EXTINF:0,Nat Geo Wild HD
+https://ucdn.beetv.kz/bpk-tv/000004474/tve/index.m3u8
+#EXTINF:0,Орел и Решка
+https://ucdn.beetv.kz/bpk-tv/000009427/tve/index.m3u8
+#EXTINF:0,Visast History HD
+https://ucdn.beetv.kz/bpk-tv/000005528/tve/index.m3u8
+#EXTINF:0,VIASAT Nature HD
+https://ucdn.beetv.kz/bpk-tv/000006482/tve/index.m3u8
+#EXTINF:0,Viasat Explore HD
+https://ucdn.beetv.kz/bpk-tv/000004157/tve/index.m3u8
+#EXTINF:0,Тайны галактики HD
+https://ucdn.beetv.kz/bpk-tv/000000332/tve/index.m3u8
+#EXTINF:0,TLC
+https://ucdn.beetv.kz/bpk-tv/000001498/tve/index.m3u8
+#EXTINF:0,Comedy Central
+https://ucdn.beetv.kz/bpk-tv/000000452/tve/index.m3u8
+#EXTINF:0,Т24
+https://ucdn.beetv.kz/bpk-tv/000000008/tve/index.m3u8
+#EXTINF:0,Terra HD
+https://ucdn.beetv.kz/bpk-tv/000008142/tve/index.m3u8
+#EXTINF:0,Оружие
+https://ucdn.beetv.kz/bpk-tv/000000308/tve/index.m3u8
+#EXTINF:0,History HD
+https://ucdn.beetv.kz/bpk-tv/000001000/tve/index.m3u8
+#EXTINF:0,Discovery Channel  HD
+https://ucdn.beetv.kz/bpk-tv/000001496/tve/index.m3u8
+#EXTINF:0,Big Planet HD
+https://ucdn.beetv.kz/bpk-tv/000008052/tve/index.m3u8
+#EXTINF:0,Animal Planet HD
+https://ucdn.beetv.kz/bpk-tv/000000216/tve/index.m3u8
+#EXTINF:0,Точка отрыва
+https://ucdn.beetv.kz/bpk-tv/000003208/tve/index.m3u8
+#EXTINF:0,Новый игровой канал
+https://ucdn.beetv.kz/bpk-tv/000008615/tve/index.m3u8
+#EXTINF:0,Наша Тема
+https://ucdn.beetv.kz/bpk-tv/000003785/tve/index.m3u8
+#EXTINF:0,Мужской
+https://ucdn.beetv.kz/bpk-tv/000000286/tve/index.m3u8
+#EXTINF:0,Загородная жизнь HD
+https://ucdn.beetv.kz/bpk-tv/000000289/tve/index.m3u8
+#EXTINF:0,Телекафе
+https://ucdn.beetv.kz/bpk-tv/000000206/tve/index.m3u8
+#EXTINF:0,МОДА
+https://ucdn.beetv.kz/bpk-tv/000000439/tve/index.m3u8
+#EXTINF:0,РБК
+https://ucdn.beetv.kz/bpk-tv/000000091/tve/index.m3u8
 #EXTINF:0,Народ всё видит
 https://ucdn.beetv.kz/bpk-tv/000008614/tve/index.m3u8
 #EXTINF:0,Здоровое ТВ
@@ -345,6 +413,8 @@ https://ucdn.beetv.kz/bpk-tv/000001020/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000204/tve/index.m3u8
 #EXTINF:0,ТНТ Music
 https://ucdn.beetv.kz/bpk-tv/000000013/tve/index.m3u8
+#EXTINF:0,МУЗ ТВ (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
 #EXTINF:0,Шансон ТВ
 https://ucdn.beetv.kz/bpk-tv/000000210/tve/index.m3u8
 #EXTINF:0,MTV Live HD
@@ -361,6 +431,8 @@ https://ucdn.beetv.kz/bpk-tv/000002479/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000002478/tve/index.m3u8
 #EXTINF:0,Матч! Арена
 http://194.143.148.28:8080/MatchArena/mpegts
+#EXTINF:0,Матч ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:0,KHL Prime
 http://194.143.148.28:8080/KHL_HD/mpegts
 #EXTINF:0,Удар HD
@@ -371,45 +443,115 @@ https://ucdn.beetv.kz/bpk-tv/000001661/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000001122/tve/index.m3u8
 #EXTINF:0,viju+ Sport
 https://ucdn.beetv.kz/bpk-tv/000000135/tve/index.m3u8
+#EXTINF:0,Setanta Sports Plus
+https://ucdn.beetv.kz/bpk-tv/000008786/tve/index.m3u8
 #EXTINF:0,Setanta Sports 1 HD
 https://ucdn.beetv.kz/bpk-tv/000004498/tve/index.m3u8
 #EXTINF:0,Setanta Sports 2 HD
 https://ucdn.beetv.kz/bpk-tv/000004499/tve/index.m3u8
 #EXTINF:0,Setanta Qazaqstan HD
 https://ucdn.beetv.kz/bpk-tv/000002649/tve/index.m3u8
-#EXTINF:0,Первый канал
-https://ucdn.beetv.kz/bpk-tv/000001227/tve/index.m3u8
-#EXTINF:0,Рен ТВ
-https://ucdn.beetv.kz/bpk-tv/000002472/tve/index.m3u8
-#EXTINF:0,ТНТ4
-https://ucdn.beetv.kz/bpk-tv/000002926/tve/index.m3u8
-#EXTINF:0,ТНТ
-https://ucdn.beetv.kz/bpk-tv/000007833/tve/index.m3u8
-#EXTINF:0,Россия К
-https://ucdn.beetv.kz/bpk-tv/000000066/tve/index.m3u8
-#EXTINF:0,Россия 24
-https://ucdn.beetv.kz/bpk-tv/000000198/tve/index.m3u8
-#EXTINF:0,НТВ МИР
-https://ucdn.beetv.kz/bpk-tv/000000079/tve/index.m3u8
-#EXTINF:0,РТР-Планета
-https://ucdn.beetv.kz/bpk-tv/000000812/tve/index.m3u8
-#EXTINF:0,Центральное Телевидение
-https://ucdn.beetv.kz/bpk-tv/000001880/tve/index.m3u8
-#EXTINF:0,ТВЦ
-https://ucdn.beetv.kz/bpk-tv/000000112/tve/index.m3u8
-#EXTINF:0,ТВ 3 International
-https://ucdn.beetv.kz/bpk-tv/000004712/tve/index.m3u8
-#EXTINF:0,Домашний International
-https://ucdn.beetv.kz/bpk-tv/000002348/tve/index.m3u8
-#EXTINF:0,Пятница International
-https://ucdn.beetv.kz/bpk-tv/000007816/tve/index.m3u8
-#EXTINF:0,СТС International
-https://ucdn.beetv.kz/bpk-tv/000000428/tve/index.m3u8
-#EXTINF:0,Пятый канал
-https://ucdn.beetv.kz/bpk-tv/000003718/tve/index.m3u8
-#EXTINF:0,МИР
-https://ucdn.beetv.kz/bpk-tv/000002555/tve/index.m3u8
+#EXTINF:0,Sport Plus Live
+https://ucdn.beetv.kz/bpk-tv/000008731/tve/index.m3u8
 #EXTINF:0,Спас
 https://ucdn.beetv.kz/bpk-tv/000000247/tve/index.m3u8
 #EXTINF:0,ТНВ-Планета
 https://ucdn.beetv.kz/bpk-tv/000000418/tve/index.m3u8
+#EXTINF:0,QAZAQSTAN HD
+https://ucdn.beetv.kz/bpk-tv/000004208/tve/index.m3u8
+#EXTINF:0,Хабар HD
+https://ucdn.beetv.kz/bpk-tv/000004211/tve/index.m3u8
+#EXTINF:0,Qazsport HD
+https://ucdn.beetv.kz/bpk-tv/000003038/tve/index.m3u8
+#EXTINF:0,24 KZ HD
+https://ucdn.beetv.kz/bpk-tv/000005177/tve/index.m3u8
+#EXTINF:0,Astana TV
+https://ucdn.beetv.kz/bpk-tv/000000666/tve/index.m3u8
+#EXTINF:0,31 Канал
+https://ucdn.beetv.kz/bpk-tv/000000663/tve/index.m3u8
+#EXTINF:0,Первый Канал Евразия
+https://ucdn.beetv.kz/bpk-tv/000000669/tve/index.m3u8
+#EXTINF:0,КТК HD
+https://ucdn.beetv.kz/bpk-tv/000000672/tve/index.m3u8
+#EXTINF:0,НТК
+https://ucdn.beetv.kz/bpk-tv/000000673/tve/index.m3u8
+#EXTINF:0,Седьмой канал
+https://ucdn.beetv.kz/bpk-tv/000000659/tve/index.m3u8
+#EXTINF:0,Jibek Joly
+https://ucdn.beetv.kz/bpk-tv/000000941/tve/index.m3u8
+#EXTINF:0,Atameken Business Channel HD
+https://ucdn.beetv.kz/bpk-tv/000005322/tve/index.m3u8
+#EXTINF:0,Almaty tv
+https://ucdn.beetv.kz/bpk-tv/000000667/tve/index.m3u8
+#EXTINF:0,ТДК-42
+https://ucdn.beetv.kz/bpk-tv/000001507/tve/index.m3u8
+#EXTINF:0,Той Думан
+https://ucdn.beetv.kz/bpk-tv/000002936/tve/index.m3u8
+#EXTINF:0,ABAI TV
+https://ucdn.beetv.kz/bpk-tv/000006116/tve/index.m3u8
+#EXTINF:0,Turan TV
+https://ucdn.beetv.kz/bpk-tv/000001404/tve/index.m3u8
+#EXTINF:0,SHOW KZ
+https://ucdn.beetv.kz/bpk-tv/000008944/tve/index.m3u8
+#EXTINF:0,77 TV
+https://ucdn.beetv.kz/bpk-tv/000002851/tve/index.m3u8
+#EXTINF:0,5 канал (региональный)
+https://ucdn.beetv.kz/bpk-tv/000000950/tve/index.m3u8
+#EXTINF:0,Алау ТВ
+https://ucdn.beetv.kz/bpk-tv/000001511/tve/index.m3u8
+#EXTINF:0,Отырар-TV
+https://ucdn.beetv.kz/bpk-tv/000001052/tve/index.m3u8
+#EXTINF:0,Айғак
+https://ucdn.beetv.kz/bpk-tv/000001510/tve/index.m3u8
+#EXTINF:0,Жетiсу
+https://ucdn.beetv.kz/bpk-tv/000001458/tve/index.m3u8
+#EXTINF:0,Salem, alem!
+https://ucdn.beetv.kz/bpk-tv/000008864/tve/index.m3u8
+#EXTINF:0,Коктем
+https://ucdn.beetv.kz/bpk-tv/000008934/tve/index.m3u8
+#EXTINF:0,Достык
+https://ucdn.beetv.kz/bpk-tv/000009344/tve/index.m3u8
+#EXTINF:0,ТВК 6
+https://ucdn.beetv.kz/bpk-tv/000001516/tve/index.m3u8
+#EXTINF:0,Ирбис TV
+https://ucdn.beetv.kz/bpk-tv/000001513/tve/index.m3u8
+#EXTINF:0,Новое Телевидение HD
+https://ucdn.beetv.kz/bpk-tv/000001380/tve/index.m3u8
+#EXTINF:0,Твоё Телевидение
+https://ucdn.beetv.kz/bpk-tv/000002721/tve/index.m3u8
+#EXTINF:0,РИКА-ТВ
+https://ucdn.beetv.kz/bpk-tv/000001514/tve/index.m3u8
+#EXTINF:0,HIT TV
+https://ucdn.beetv.kz/bpk-tv/000001213/tve/index.m3u8
+#EXTINF:0,MUZZONE
+https://ucdn.beetv.kz/bpk-tv/000000783/tve/index.m3u8
+#EXTINF:0,Ertis
+https://ucdn.beetv.kz/bpk-tv/000003248/tve/index.m3u8
+#EXTINF:0,ULYTAU
+https://ucdn.beetv.kz/bpk-tv/000003604/tve/index.m3u8
+#EXTINF:0,Semei
+https://ucdn.beetv.kz/bpk-tv/000003250/tve/index.m3u8
+#EXTINF:0,Saryarqa
+https://ucdn.beetv.kz/bpk-tv/000003146/tve/index.m3u8
+#EXTINF:0,Qyzylorda
+https://ucdn.beetv.kz/bpk-tv/000003246/tve/index.m3u8
+#EXTINF:0,Qyzyljar
+https://ucdn.beetv.kz/bpk-tv/000003249/tve/index.m3u8
+#EXTINF:0,Qostanai
+https://ucdn.beetv.kz/bpk-tv/000001521/tve/index.m3u8
+#EXTINF:0,Ońtústik
+https://ucdn.beetv.kz/bpk-tv/000003251/tve/index.m3u8
+#EXTINF:0,Mańǵystaý
+https://ucdn.beetv.kz/bpk-tv/000003247/tve/index.m3u8
+#EXTINF:0,Kókshe
+https://ucdn.beetv.kz/bpk-tv/000003021/tve/index.m3u8
+#EXTINF:0,Jambyl
+https://ucdn.beetv.kz/bpk-tv/000003244/tve/index.m3u8
+#EXTINF:0,Atyraý
+https://ucdn.beetv.kz/bpk-tv/000001570/tve/index.m3u8
+#EXTINF:0,Altai
+https://ucdn.beetv.kz/bpk-tv/000001572/tve/index.m3u8
+#EXTINF:0,Aqjaiyq
+https://ucdn.beetv.kz/bpk-tv/000001689/tve/index.m3u8
+#EXTINF:0,Туркестан
+https://ucdn.beetv.kz/bpk-tv/000007248/tve/index.m3u8
